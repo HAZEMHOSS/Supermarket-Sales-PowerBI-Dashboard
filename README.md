@@ -8,23 +8,38 @@ This project presents an interactive Power BI dashboard analyzing supermarket sa
 - **screenshots/** → Dashboard preview images.
 
 📈 Key Insights
+
 -Top-performing product lines ranked by gross income.
 
 -Monthly sales & profit trends for the quarter.
+
 -Branch-level performance comparison.
+
 -Customer demographics breakdown by gender.
+
 -Sales distribution across cities and product categories.
 
+
 📊 Visualizations in the Dashboard
+
 -Slicer: Month selector to filter all visuals.
+
 -Bar Chart: Gross income by product line.
+
 -Card Visuals: Total COGS, total sales, and gross income.
+
 -Donut Chart: Total sales by city.
+
 -Donut Chart: Total sales by branch.
+
 -Bar Chart: Total sales by gender.
+
 -Line & Clustered Column Chart: Total sales & gross income by month.
+
 -Bar Chart: Total quantity sold by product line.
+
 -Tree Map: Sales distribution across product lines.
+
 
 🧠 Tools Used
 Microsoft Power BI – Dashboard creation & visualization
@@ -41,6 +56,7 @@ Microsoft Excel – Data source & preparation
 1. Download the `.pbix` file from `/dashboard/`.
 
 2. Open it in **Microsoft Power BI Desktop**.
+
 
 
 
