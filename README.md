@@ -21,8 +21,9 @@ This project presents an interactive Power BI dashboard analyzing supermarket sa
 ![Dashboard Preview](Screenshots/Dashboard-Preview.png)
 
 ## 📊 Dataset
-The dataset is included in `/data/supermarket_sales.xlsx`.
+[Download the dataset here](Data/supermarket_sales-Sheet1.xlsx)
 
 ## 📄 How to Open
 1. Download the `.pbix` file from `/dashboard/`.
+
 2. Open it in **Microsoft Power BI Desktop**.
