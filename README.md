@@ -42,6 +42,7 @@ This project presents an interactive Power BI dashboard analyzing supermarket sa
 
 
 🧠 Tools Used
+
 Microsoft Power BI – Dashboard creation & visualization
 
 Microsoft Excel – Data source & preparation
@@ -56,6 +57,7 @@ Microsoft Excel – Data source & preparation
 1. Download the `.pbix` file from `/dashboard/`.
 
 2. Open it in **Microsoft Power BI Desktop**.
+
 
 
 
