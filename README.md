@@ -9,6 +9,7 @@ This project presents an interactive Power BI dashboard analyzing supermarket sa
 
 📈 Key Insights
 -Top-performing product lines ranked by gross income.
+
 -Monthly sales & profit trends for the quarter.
 -Branch-level performance comparison.
 -Customer demographics breakdown by gender.
@@ -40,6 +41,7 @@ Microsoft Excel – Data source & preparation
 1. Download the `.pbix` file from `/dashboard/`.
 
 2. Open it in **Microsoft Power BI Desktop**.
+
 
 
 
