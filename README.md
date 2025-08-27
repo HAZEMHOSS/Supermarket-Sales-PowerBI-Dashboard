@@ -48,7 +48,7 @@ Microsoft Power BI – Dashboard creation & visualization
 Microsoft Excel – Data source & preparation
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](Screenshots/Executive-Overview.png)
+![Dashboard Preview](Screenshots/Executive Overview.png)
 
 ## 📊 Dataset
 [Download the dataset here](Data)
@@ -57,6 +57,7 @@ Microsoft Excel – Data source & preparation
 1. Download the `.pbix` file from `/dashboard/`.
 
 2. Open it in **Microsoft Power BI Desktop**.
+
 
 
 
