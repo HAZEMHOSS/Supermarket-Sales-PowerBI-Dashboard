@@ -47,8 +47,25 @@ Microsoft Power BI – Dashboard creation & visualization
 
 Microsoft Excel – Data source & preparation
 
-## 📸 Dashboard Preview
-![Dashboard Preview](Screenshots/Executive Overview.png)
+# 📊 Dashboard Preview
+
+### 🔹 Executive Overview
+[![Executive Overview](Screenshots/Executive%20Overview.png)](Screenshots/Executive%20Overview.png)
+
+### 🔹 Customer Insights
+[![Customer Insights](Screenshots/Customer%20Insights.png)](Screenshots/Customer%20Insights.png)
+
+### 🔹 Product Insights
+[![Product Insights](Screenshots/Product%20Insights.png)](Screenshots/Product%20Insights.png)
+
+### 🔹 Payment Insights
+[![Payment](Screenshots/Payment.png)](Screenshots/Payment.png)
+
+### 🔹 Branch & City Performance
+[![Branch & City](Screenshots/Branch%20%26%20City.png)](Screenshots/Branch%20%26%20City.png)
+
+### 🔹 Time & Seasonality
+[![Time & Seasonality](Screenshots/Time%20%26%20Seasonality.png)](Screenshots/Time%20%26%20Seasonality.png)
 
 ## 📊 Dataset
 [Download the dataset here](Data)
@@ -57,6 +74,7 @@ Microsoft Excel – Data source & preparation
 1. Download the `.pbix` file from `/dashboard/`.
 
 2. Open it in **Microsoft Power BI Desktop**.
+
 
 
 
